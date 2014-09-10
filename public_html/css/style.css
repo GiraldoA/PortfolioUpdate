@@ -1,16 +1,16 @@
 
 
- a{
+ a,p{
     color: white
 }
-
+/* i used this to to make my links to my other pages look better*/
 #link{
     border: 5px solid black;
     text-transform: uppercase;
     text-decoration: none;
     margin-left: 500px;
 }
-/* i used this to to make my links to my other pages look better*/
+
 #current-link{
     border: 5px solid black;
 }
