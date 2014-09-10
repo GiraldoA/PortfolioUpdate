@@ -1,0 +1,63 @@
+
+
+ a{
+    color: white
+}
+
+#link{
+    border: 5px solid black;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: 500px;
+}
+/* i used this to to make my links to my other pages look better*/
+#current-link{
+    border: 5px solid black;
+}
+.uppercase{
+    text-transform: uppercase;
+    font-size: 35px;
+}
+
+#index{
+    background-image: url(http://s3.gamefreaks.co.nz/wp-content/uploads/2013/10/battlefield_4_artwork-wide11.jpg);
+     background-size: cover;   
+}
+/*i used this to make the background for my about me page*/
+#index article p{
+    color:white
+}
+
+
+#index h1{
+    color: white
+}
+
+#index h2{
+    color: white;
+}
+
+#projects{
+    background-image: url(http://www.on4akh.be/images/projects.jpg);
+    background-size: cover;
+}
+
+#projects h1, h2{
+    color:white
+        
+}
+#technology{
+    background-image: url(http://enjoythefresh.com/fi/wp-content/uploads/2012/02/html5_and_css3_logos_1.png);
+        background-size: cover;
+}
+a{
+    background-color: black;
+}
+
+h1{
+  border: 5px solid white;
+  padding-left: 300px;
+}
+h2,p{
+    padding-left: 300px;
+}
